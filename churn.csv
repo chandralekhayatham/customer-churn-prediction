@@ -1,0 +1,9 @@
+tenure,monthly_charges,total_charges,contract_type,customer_service_calls,churn
+1,70,70,Monthly,3,1
+24,80,1920,Yearly,1,0
+12,60,720,Monthly,2,1
+36,90,3240,Yearly,0,0
+6,75,450,Monthly,4,1
+48,85,4080,Yearly,1,0
+10,65,650,Monthly,3,1
+60,95,5700,Yearly,0,0
